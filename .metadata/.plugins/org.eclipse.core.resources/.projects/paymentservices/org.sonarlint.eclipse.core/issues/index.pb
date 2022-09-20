@@ -15,3 +15,5 @@ Y
 )src/main/resources/application.properties,0\6\06f65155ec73600b9fc5c4dc2883d4bb84d8e284
 ~
 Nsrc/main/java/com/microservice/example/paymentservices/ServletInitializer.java,e\f\ef65d66ab0c868777e2b464a14ecfb9ebcb58bf2
+S
+#src/main/resources/application.yaml,8\b\8bf9a0c76cee89021a19081a2d70237db7e2fd8a

@@ -13,4 +13,4 @@ spring:
         name: ServerConfig
     cloud:      config:
         enabled: false        server:          git:            uri: https://github.com/AbhiramMachiraju/MicroServiceBasic.git
-            search-paths:            - ${application}
+#            search-paths:#            - ${application}

@@ -21,3 +21,5 @@ Y
 Nsrc/main/java/com/microservice/example/orderservices/service/OrderService.java,0\4\040443f89628e750135729314194fad283d143ed
 ‚
 Rsrc/main/java/com/microservice/example/orderservices/OrderServicesApplication.java,f\3\f398599317b5edcfe487860893ebf5e3920e5082
+S
+#src/main/resources/application.yaml,8\b\8bf9a0c76cee89021a19081a2d70237db7e2fd8a

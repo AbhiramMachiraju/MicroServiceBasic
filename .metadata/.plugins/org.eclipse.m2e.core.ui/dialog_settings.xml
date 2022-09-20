@@ -49,6 +49,7 @@
 			<item value="hystrix-dashboard"/>
 		</list>
 		<list key="artifactId">
+			<item value="serverConfig"/>
 			<item value="hystrix-dashboard"/>
 			<item value="apiGateway"/>
 			<item value="eurekaServiceRegistry"/>
