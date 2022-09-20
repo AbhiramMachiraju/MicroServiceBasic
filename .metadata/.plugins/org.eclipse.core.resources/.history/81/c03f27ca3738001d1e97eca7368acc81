@@ -1,0 +1,5 @@
+spring.application.name=HYSTRIX-DASHBOARD
+
+#default port
+server.port=8888
+

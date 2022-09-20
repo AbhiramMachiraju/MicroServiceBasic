@@ -1,0 +1,19 @@
+package com.microservice.example.paymentservices.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.microservice.example.paymentservices.dao.OrderDAO;
+import com.microservice.example.paymentservices.entity.PaymentTO;
+
+@Service
+public class PaymentService {
+	
+	@Autowired OrderDAO daoLayer;
+	
+	public PaymentTO saveOrder(PaymentTO orderTO)
+	{
+		return daoLayer.save(orderTO);
+	}
+
+}

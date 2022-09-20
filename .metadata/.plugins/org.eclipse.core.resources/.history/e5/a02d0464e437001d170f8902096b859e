@@ -1,0 +1,5 @@
+package com.microservice.example.orderservices.entity;
+
+public class OrderTO {
+
+}

@@ -1,0 +1,5 @@
+package com.microservice.example.apiGateway.controller;
+
+public class FallbackController {
+
+}

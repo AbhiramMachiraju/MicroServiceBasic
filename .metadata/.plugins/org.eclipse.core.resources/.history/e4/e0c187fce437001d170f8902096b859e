@@ -1,0 +1,11 @@
+package com.microservice.example.orderservices.dao;
+
+import org.springframework.data.jpa.repository.cdi.JpaRepositoryExtension;
+import org.springframework.stereotype.Repository;
+
+import com.microservice.example.orderservices.entity.OrderTO;
+
+@Repository
+public class OrderDAO extends JpaRepositoryExtension<OrderTO,Integer> {
+
+}

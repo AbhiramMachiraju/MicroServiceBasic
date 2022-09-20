@@ -1,0 +1,20 @@
+server:
+    port: 9102
+spring:
+    application:
+        name: PAYMENT-SERVICE
+    datasource:
+        driverClassName: org.h2.Driver
+        password: password
+        url: jdbc:h2:mem:microserviceDB
+        username: sa
+    h2:
+        console:
+            enabled: true
+            path: /h2-console
+    jpa:
+        database-platform: org.hibernate.dialect.H2Dialect
+    cloud:
+      config:
+        uri:
+        - http://localhost:9103    
