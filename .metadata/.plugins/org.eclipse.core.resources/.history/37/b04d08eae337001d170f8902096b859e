@@ -1,5 +1,0 @@
-package com.microservice.example.orderservices;
-
-public class OrderServicesApplication {
-
-}

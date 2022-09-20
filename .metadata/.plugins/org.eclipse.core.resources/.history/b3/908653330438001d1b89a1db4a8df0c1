@@ -1,3 +1,0 @@
-server.port=8761 //default port
-eureka.client.register-with-eureka=false
-eureka.client.fetch-registry=false

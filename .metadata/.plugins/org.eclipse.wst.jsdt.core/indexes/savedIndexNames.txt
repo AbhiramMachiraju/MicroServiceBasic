@@ -1,6 +1,0 @@
-INDEX VERSION 1.4+E:\Personal_WS\MicroServiceEX\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1243635168.index
-715374721.index
-1580126873.index
-4274332077.index
-2855905787.index
